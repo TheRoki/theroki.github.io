@@ -1,9 +1,36 @@
 body {
   padding-top: 64px;
-  background-image: url("https://images.pexels.com/photos/669576/pexels-photo-669576.jpeg?auto=compress&cs=tinysrgb&h=4928&w=5000");
+  background-image: url("https://images.pexels.com/photos/1552252/pexels-photo-1552252.jpeg?");
   background-size: cover;
 }
 
+h1 {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+
+h4 {
+  color: white;
+}
+
+h5 {
+  color: white;
+}
+
+h6 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+a {
+  color: white;
+}
 
 @media (min-width: 992px) {
   body {
