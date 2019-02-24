@@ -1,6 +1,7 @@
 body {
   padding-top: 64px;
   background-image: url("https://images.pexels.com/photos/669576/pexels-photo-669576.jpeg?auto=compress&cs=tinysrgb&h=4928&w=5000");
+  background-size: cover;
 }
 
 
